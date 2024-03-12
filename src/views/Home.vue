@@ -33,20 +33,16 @@
 					Get Resume
 					<Icon primaryIcon="download" class="inline w-5 h-5 align-text-bottom text-accent" />
 				</a>
-			</div>
-			<div>
-			<div id="cta" class="justify-self-center md:justify-self-auto md:self-start whitespace-nowrap">
+
 				<a
-					href="https://khushi-portfolio-chat.vercel.app/"
+					href="https://khushichoudhary1020.github.io/"
 					class="ml-3 align-baseline text-accent"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Chat regarding more information
-										<Icon primaryIcon="arrow" class="inline w-5 h-5 align-text-bottom text-accent" />
-
+					Click to Chat
+					<Icon primaryIcon="cil-arrow-bottom" class="inline w-5 h-5 align-text-bottom text-accent" />
 				</a>
-			</div>
 			</div>
 		</article>
 	</section>
