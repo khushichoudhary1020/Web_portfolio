@@ -16,7 +16,7 @@
 				<li class="flex-1 px-4"><CustomRouterLink to="#contact">Contact</CustomRouterLink></li>
 				<li class="flex-1 hidden px-4 lg:static">|</li>
 				<li class="flex-1 hidden px-4 lg:static">
-					<p class="whitespace-nowrap text-accent">+91-6369888030</p>
+					<p class="whitespace-nowrap text-accent">+91-7717457974</p>
 				</li>
 			</ul>
 		</nav>

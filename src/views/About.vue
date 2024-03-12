@@ -4,10 +4,10 @@
 			<router-link class="header-anchor" :to="{ hash: '#about' }">About</router-link>
 		</h2>
 		<p class="py-2">
-			Highly skilled Senior DevOps Engineer with expertise in AWS cloud infrastructure. Proficient in configuring
-			and maintaining AWS services, implementing CI/CD pipelines, and optimizing cloud environments. Strong
-			knowledge of IaC, security practices, and troubleshooting. Effective collaborator and continuously expanding
-			skill set. Valuable asset for maximizing AWS capabilities in any organization.
+			Highly skilled and data driven analyst with expertise in AI & ML. Proficient in configuring
+			and maintaining data, implementing CI/CD pipelines, and optimizing cloud environments. Strong
+			knowledge of data science and troubleshooting. Effective collaborator and continuously expanding
+			skill set. Valuable asset for maximizing AI & ML capabilities in any organization.
 		</p>
 	</section>
 </template>
