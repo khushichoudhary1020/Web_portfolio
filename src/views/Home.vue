@@ -42,6 +42,8 @@
 					rel="noopener noreferrer"
 				>
 					Chat regarding more information
+										<Icon primaryIcon="arrow" class="inline w-5 h-5 align-text-bottom text-accent" />
+
 				</a>
 			</div>
 		</article>
