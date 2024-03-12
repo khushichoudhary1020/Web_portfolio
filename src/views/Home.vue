@@ -34,6 +34,7 @@
 					<Icon primaryIcon="download" class="inline w-5 h-5 align-text-bottom text-accent" />
 				</a>
 			</div>
+			<div>
 			<div id="cta" class="justify-self-center md:justify-self-auto md:self-start whitespace-nowrap">
 				<a
 					href="https://khushi-portfolio-chat.vercel.app/"
@@ -45,6 +46,7 @@
 										<Icon primaryIcon="arrow" class="inline w-5 h-5 align-text-bottom text-accent" />
 
 				</a>
+			</div>
 			</div>
 		</article>
 	</section>
