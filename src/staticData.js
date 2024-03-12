@@ -11,8 +11,16 @@ const projects = [
 		description: "You can chat with my bot and get my resume and more information about me.",
 		tags: ["HTML", "CSS", "JS"],
 		image: "Bot",
-		liveURL: "https://venkivijay.github.io/resume/",
-		sourceURL: "https://khushi-portfolio-chat.vercel.app/",
+		liveURL: "https://khushi-portfolio-chat.vercel.app/",
+		sourceURL: "https://github.com/khushichoudhary1020/Khushi-Portfolio-Chat",
+	},
+	{
+		name: "Product Customisation",
+		description: "You can change the color of your product.",
+		tags: ["HTML", "CSS"],
+		image: "Customization",
+		liveURL: "https://khushichoudhary1020.github.io/DummyCustomisation/",
+		sourceURL: "https://github.com/khushichoudhary1020/DummyCustomisation",
 	},
 	{
 		name: "Website",
@@ -21,14 +29,6 @@ const projects = [
 		image: "Website",
 		liveURL: "https://khushichoudhary1020.github.io/giftcustomisation/",
 		sourceURL: "https://github.com/khushichoudhary1020/giftcustomisation",
-	},
-	{
-		name: "Product Customisation",
-		description: "You can change the color of your product.",
-		tags: ["Nuxt.js", "PWA"],
-		image: "Customization",
-		liveURL: "https://khushichoudhary1020.github.io/DummyCustomisation/",
-		sourceURL: "https://github.com/khushichoudhary1020/DummyCustomisation",
 	},
 	{
 		name: "Links",
