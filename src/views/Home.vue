@@ -40,7 +40,7 @@
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Click to Chat
+					Chat
 					<Icon primaryIcon="cil-arrow-bottom" class="inline w-5 h-5 align-text-bottom text-accent" />
 				</a>
 			</div>
