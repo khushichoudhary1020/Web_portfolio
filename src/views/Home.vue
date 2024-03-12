@@ -35,7 +35,7 @@
 				</a>
 
 				<a
-					href="https://khushichoudhary1020.github.io/"
+					href="https://khushi-portfolio-chat.vercel.app/"
 					class="ml-3 align-baseline text-accent"
 					target="_blank"
 					rel="noopener noreferrer"
