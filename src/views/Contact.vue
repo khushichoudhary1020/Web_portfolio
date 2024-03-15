@@ -6,8 +6,7 @@
 			</h2>
 			<h3 class="py-2 text-h4 text-secondary">Let's work together</h3>
 			<p class="py-2">
-				I am available for hire to work on your exciting project and have a keen interest in contributing to
-				open-source initiatives. Please don't hesitate to reach out to me.
+				I am always ready to contribute to your existing projects in hand, further new projects with keen interest in contributing to open-source initiatives. Please don't hesitate to reach out to me.
 			</p>
 		</div>
 		<ContactForm />
