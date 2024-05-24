@@ -90,4 +90,3 @@ Run `npm run build` to build for production. Build files will be placed in `dist
 
 Currently, deployment is handled by Netlify. Pushing code to `dev branch` will automatically trigger a deploy.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bd039447-bb78-4d60-bcbb-a9a30fbb51c4/deploy-status)](https://app.netlify.com/sites/dev-portfolio-venkivijay/deploys)
