@@ -19,10 +19,6 @@
 				<Icon primaryIcon="mail" class="w-6 h-6 p-1 rounded-lg bg-accent-alpha text-accent" />
 				<p class="pl-4">{{ contact.email }}</p>
 			</div>
-			<div id="phone" class="flex items-center py-2">
-				<Icon primaryIcon="phone" class="w-6 h-6 p-1 rounded-lg bg-accent-alpha text-accent" />
-				<p class="pl-4">{{ contact.phone }}</p>
-			</div>
 		</div>
 	</section>
 </template>
