@@ -74,8 +74,7 @@ const socials = [
 
 const contact = {
 	location: "Jalandhar, PB",
-	email: "khushichoudhary1020@gmail.com",
-	phone: "+91-7717457974",
+	email: "khushichoudhary1020@gmail.com"
 }
 
 const skills = [
